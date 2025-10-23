@@ -1,5 +1,3 @@
-# kaggle-ml-fundamentals
-
 # Intro to Machine Learning — A Guided Journey
 
 Welcome!  
@@ -25,7 +23,7 @@ Each notebook explores a core ML concept:
 
 ## Environment Setup
 ```bash
-git clone https://github.com/<your-username>/intro-to-ml.git
-cd intro-to-ml
+git clone git@github.com:eooo-io/kaggle-ml-fundamentals.git
+cd kaggle-ml-fundamentals.git
 pip install -r requirements.txt
 ```
